@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sergio</h1>
+<h2 align="center">Hi, I'm Sergio!</h2>
 
-<p align="left"> <a href="https://twitter.com/sjpuas" target="blank"><img src="https://img.shields.io/twitter/follow/sjpuas?logo=twitter&style=for-the-badge" alt="sjpuas" /></a> </p>
+[![Twitter: sjpuas](https://img.shields.io/twitter/follow/sjpuas?style=social)](https://twitter.com/sjpuas)
+[![Linkedin: sjpuas](https://img.shields.io/badge/-sjpuas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sjpuas/)](https://www.linkedin.com/in/sjpuas/)
+[![GitHub sjpuas](https://img.shields.io/github/followers/sjpuas?label=follow&style=social)](https://github.com/sjpuas)
 
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjpuas&show_icons=true)
 
-<p><img align="left" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjpuas&show_icons=true&locale=en&layout=compact" alt="sjpuas" /></p>
-
-<p>&nbsp;<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=sjpuas&show_icons=true&locale=en" alt="sjpuas" /></p>
